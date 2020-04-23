@@ -145,3 +145,9 @@ footer {
     font-size: 3.5rem;
   }
 }
+
+@media (max-width:420px){
+  .drum{
+    width:50%;
+  }
+}
