@@ -150,14 +150,12 @@ footer {
 @media (max-width:480px){
   .drum{
     width:40%;
-    height:18%;
   }
 }
 
 @media (max-width:720px and min-width:480px){
   .drum{
     width:30%;
-    height: 18%;
   }
 }
 
