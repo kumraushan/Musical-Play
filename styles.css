@@ -146,8 +146,23 @@ footer {
   }
 }
 
-@media (max-width:420px){
+@media (max-width:480px){
   .drum{
-    width:50%;
+    width:40%;
+    height:18%;
   }
 }
+
+@media (max-width:720px and min-width:490px){
+  .drum{
+    width:30%;
+    height: 18%;
+  }
+}
+
+@media (max-width:1020px and min-width:720px){
+  .drum{
+    width:80px;
+  }
+}
+
